@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "club.deying.demo.uaa"
+    },
+    "jhipsterVersion": "5.8.0",
+    "applicationType": "uaa",
+    "baseName": "jhipster",
+    "packageName": "club.deying.demo.uaa",
+    "packageFolder": "club/deying/demo/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
