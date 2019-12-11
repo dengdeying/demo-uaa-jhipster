@@ -1,3 +1,4 @@
+# demo-uaa-jhipster
 # jhipster
 
 This application was generated using JHipster 5.8.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.0](https://www.jhipster.tech/documentation-archive/v5.8.0).
